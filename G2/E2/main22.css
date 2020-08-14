@@ -101,5 +101,12 @@ width: 200px;
 height: 200px;
 border-radius: 100px;
 border: 2px solid black;
+transition-duration: 1s;
 }
-
+.Album img:hover{
+  width: 400px;
+  height: 400px;
+}
+p{
+  transition-duration: 1s;
+}
